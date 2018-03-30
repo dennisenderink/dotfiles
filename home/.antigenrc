@@ -1,0 +1,14 @@
+antigen use oh-my-zsh
+
+antigen bundles <<EOBUNDLES
+	git
+	git-extras
+	git-flow
+	z
+	zsh-autosuggestions
+	zsh-syntax-highlighting
+EOBUNDLES
+
+antigen theme pygmalion
+
+antigen apply
