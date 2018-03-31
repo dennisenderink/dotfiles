@@ -11,3 +11,5 @@ done
 . "$DOTFILES_DIR/install/brew.sh"
 . "$DOTFILES_DIR/install/zsh.sh"
 . "$DOTFILES_DIR/install/dev.sh"
+
+source .macos
