@@ -1,3 +1,5 @@
+export PATH="/usr/local/sbin:$PATH"
+
 export DOTFILES=$HOME/.dotfiles
 
 source $DOTFILES/lib/antigen/bin/antigen.zsh

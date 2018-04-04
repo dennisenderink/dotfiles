@@ -4,9 +4,12 @@ antigen bundles <<EOBUNDLES
 	git
 	git-extras
 	git-flow
+	symfony2
+	vagrant
+	yarn
 	z
-	zsh-autosuggestions
-	zsh-syntax-highlighting
+	zsh-users/zsh-autosuggestions
+	zsh-users/zsh-syntax-highlighting
 EOBUNDLES
 
 antigen theme pygmalion
