@@ -16,4 +16,4 @@ Now clone the repo and start cracking:
 
 ## Todo
 * Spark mail client
-* TransIP stack
+* use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick
