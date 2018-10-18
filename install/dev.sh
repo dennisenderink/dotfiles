@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Imagick
+# PHP extensions
 pecl install memcached
 pecl install imagick
 
