@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Imagick
+pecl install memcached
 pecl install imagick
 
 # Composer
