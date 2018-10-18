@@ -1,6 +1,5 @@
 # Taps
 tap 'caskroom/cask'
-tap 'homebrew/homebrew-php'
 
 brew 'ansible'
 brew 'bash'
