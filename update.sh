@@ -4,6 +4,6 @@ brew update
 brew upgrade --cleanup
 
 brew cask upgrade
-brew cask cleanup
+brew cleanup
 
 composer self-update
