@@ -15,8 +15,9 @@ Now clone the repo and start cracking:
 	bash ~/.dotfiles/install.sh
 
 ## Todo
-* Spark mail client
-* use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick
+* ~~Spark mail client~~
+* ~~use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick~~
+* check if correct: use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick
 
 ## Memcached
 1. brew install libmemcached

@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Imagick
+pecl install imagick
+
 # Composer
 curl -sS https://getcomposer.org/installer | php
 mv composer.phar /usr/local/bin/composer
