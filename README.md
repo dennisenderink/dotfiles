@@ -2,7 +2,7 @@
 
 Before doing anything, update MacOS and install Xcode first. Run:
 
-	sudo softwareupdate -i -a
+	sudo softwareupdate -i -a --restart
 	xcode-select --install
 
 Don't forget to restart when it asks you to.
@@ -11,7 +11,7 @@ Don't forget to restart when it asks you to.
 
 Now clone the repo and start cracking:
 
-	git clone https://github.com/dennisenderink/dotfiles.git ~/.dotfiles
+	git clone https://github.com/dennisenderink/dotfiles.git ~/.dotfiles --recurse-submodules
 	bash ~/.dotfiles/install.sh
 
 ## Todo

@@ -46,6 +46,7 @@ cask 'sublime-text'
 cask 'toggl'
 cask 'transmit'
 cask 'vagrant'
+cask 'vivaldi'
 cask 'virtualbox'
 
 mas 'Spark', id: 1176895641

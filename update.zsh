@@ -1,8 +1,6 @@
 #!/usr/bin/env zsh
 
 brew update
-brew upgrade --cleanup
-
 brew cask upgrade
 brew cleanup
 
