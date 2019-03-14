@@ -1,6 +1,6 @@
 export PATH="/usr/local/sbin:$PATH"
-
 export DOTFILES=$HOME/.dotfiles
+export GPG_TTY=$(tty)
 
 source $DOTFILES/lib/antigen/bin/antigen.zsh
 source $HOME/.antigenrc

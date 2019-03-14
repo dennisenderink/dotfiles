@@ -13,6 +13,7 @@ Now clone the repo and start cracking:
 
 	git clone https://github.com/dennisenderink/dotfiles.git ~/.dotfiles --recurse-submodules
 	bash ~/.dotfiles/install.sh
+	mackup restore
 
 ## Todo
 * ~~Spark mail client~~
