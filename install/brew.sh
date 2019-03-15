@@ -9,3 +9,5 @@ brew update
 
 brew tap homebrew/bundle
 brew bundle
+
+sed -i -e '/!includedir \/usr\/local\/etc\/my\.cnf\.d/ s/^#*/#/' /usr/local/etc/my.cnf

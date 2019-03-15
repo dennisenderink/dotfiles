@@ -7,6 +7,9 @@ Before doing anything, update MacOS and install Xcode first. Run:
 
 Don't forget to restart when it asks you to.
 
+### Mac App Store
+Open the Mac App Store and manually login with your Apple ID.
+
 ### Clone repository
 
 Now clone the repo and start cracking:
@@ -18,7 +21,8 @@ Now clone the repo and start cracking:
 ## Todo
 * ~~Spark mail client~~
 * ~~use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick~~
-* check if correct: use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick
+* ~~Check if correct: use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick~~
+* (Automatically) backup PHPStorm keymaps (+ other preferences)
 
 ## Memcached
 1. brew install libmemcached

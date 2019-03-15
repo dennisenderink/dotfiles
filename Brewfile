@@ -49,4 +49,5 @@ cask 'vagrant'
 cask 'vivaldi'
 cask 'virtualbox'
 
+mas 'Moom', id: 419330170
 mas 'Spark', id: 1176895641
