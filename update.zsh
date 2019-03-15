@@ -5,6 +5,8 @@ brew upgrade
 brew cask upgrade
 brew cleanup
 
+mas upgrade
+
 composer self-update
 
 # get latest version
