@@ -23,6 +23,7 @@ Now clone the repo and start cracking:
 * ~~use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick~~
 * ~~Check if correct: use new php install standard: https://stackoverflow.com/questions/50060021/homebrew-install-new-formula-php72-imagick~~
 * (Automatically) backup PHPStorm keymaps (+ other preferences)
+* (Automatically) backup BetterTouchTool settings
 
 ## Memcached
 1. brew install libmemcached
