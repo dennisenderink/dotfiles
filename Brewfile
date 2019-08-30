@@ -25,6 +25,7 @@ brew 'terraform-inventory'
 brew 'thefuck'
 brew 'wp-cli'
 brew 'yarn'
+brew 'zlib'
 brew 'zsh'
 brew 'zsh-completions'
 
