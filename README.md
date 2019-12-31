@@ -31,3 +31,6 @@ Now clone the repo and start cracking:
 3. pecl install memcached
 4. add extension to php.ini if it isn't already
 4. restart php servers
+
+# References
+* vpnutil by Timac (Alexandre Colucci): https://blog.timac.org/2018/0719-vpnstatus/
