@@ -1,4 +1,4 @@
-export PATH="/usr/local/sbin:$PATH"
+export PATH="/usr/local/opt/ruby/bin:/usr/local/sbin:$PATH"
 export DOTFILES=$HOME/.dotfiles
 export GPG_TTY=$(tty)
 
