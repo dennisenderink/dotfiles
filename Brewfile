@@ -1,5 +1,6 @@
 # Taps
 tap 'caskroom/cask'
+tap 'AdoptOpenJDK/openjdk'
 
 brew 'ansible'
 brew 'bash'
@@ -43,7 +44,6 @@ cask 'phpstorm'
 cask 'poedit'
 cask 'postman'
 cask 'psequel'
-cask 'sequel-pro'
 cask 'slack'
 cask 'spotify'
 cask 'stack'
@@ -53,6 +53,7 @@ cask 'transmit'
 cask 'vagrant'
 cask 'vivaldi'
 cask 'virtualbox'
+cask 'querious'
 
 mas 'Moom', id: 419330170
 mas 'Spark', id: 1176895641
